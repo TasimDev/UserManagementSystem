@@ -1,6 +1,6 @@
 <?php
-require_once('db.php');
-require_once('util.php');
+require_once('database.php');
+require_once('utility.php');
 $db = new Database;
 $util = new Util;
 //Handle Add New User Ajax Request
